@@ -18,5 +18,5 @@
 ![image](https://github.com/user-attachments/assets/a2ee9b18-ac3e-4c29-b2a4-e416835e1f35)
 
 需要注意的是，执行此操作设备可能会挂掉，同时如果参数是空的，是无法复制的，可以手动添加
-![image](https://github.com/user-attachments/assets/c4fdd312-33a0-4414-bfde-dbaa9eeda306)
+
 
