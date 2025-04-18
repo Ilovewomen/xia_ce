@@ -14,7 +14,7 @@
 
 ![image](https://github.com/user-attachments/assets/36be9f6b-ebdb-4f3e-9706-faf365f59653)
 
-除此之外，瞎测插件支持溢出测试，默认插件会对参数值进行 * 256 (0x100) 或者 * 500，此处主要针对程序使用不安全的输出方法(如：strcpy 、printf)
+除此之外，瞎测插件支持溢出测试，默认插件会对参数值进行 * 256 (0x100) 或者 * 500，此处主要针对程序使用不安全的输出方法(如：strcpy 、sprintf)
 ![image](https://github.com/user-attachments/assets/a2ee9b18-ac3e-4c29-b2a4-e416835e1f35)
 
 需要注意的是，执行此操作设备可能会挂掉，同时如果参数是空的，是无法复制的，可以手动添加
