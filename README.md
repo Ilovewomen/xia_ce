@@ -1,7 +1,8 @@
 # xia_ce
 瞎测为二开xia_sql，主要套了下xia_sql的UI和部分逻辑；
 目前存在一个较为明显的BUG，无法识别 json={"xxx":xxx,"xxx":xxx} 这种嵌套的json，暂时未解决；其次是由于默认的检测指令为sleep 3，中间是带空格的，部分系统会因为无法识别空格导致错误，已更新新功能版本，具体请看release，后续遇到新bug再改吧
-![image](https://github.com/user-attachments/assets/32cc273c-9d4e-4281-8e65-9321bb6ef826)
+![image](https://github.com/user-attachments/assets/829e4a36-61d8-4583-a1d4-7c5952b68635)
+
 
 瞎测主要针对iot设备，如：路由器、网关、防火墙的常规命令执行、命令注入、溢出测试。
 
